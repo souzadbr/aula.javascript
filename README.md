@@ -1,3 +1,3 @@
-# aula.javascrept
-Introdução ao Java Scrept 
-Exemplos de JavaScrept 
+# aula.javascript
+Introdução ao Java Script 
+Exemplos de JavaScript 
